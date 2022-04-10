@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://flutter.dev"><img src="https://img.shields.io/badge/flutter-blue?logo=flutter&style=for-the-badge"></a> 
   <a href="https://firebase.google.com"><img src="https://img.shields.io/badge/firebase-grey?logo=firebase&style=for-the-badge"></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fvareversat%2Fcarg?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvareversat%2Fcarg.svg?type=shield"/></a>
   <a href="https://algolia.com"><img src="https://img.shields.io/badge/algolia-white?logo=algolia&style=for-the-badge"></a>
   <a href="https://codecov.io/gh/vareversat/carg/"><img src="https://img.shields.io/codecov/c/github/vareversat/carg?logo=codecov&style=for-the-badge&token=sA4XbJ7O5Z"></a>
   <a href="https://github.com/vareversat/carg/actions"><img src="https://img.shields.io/github/workflow/status/vareversat/carg/Flutter%20-%20CI%20(firebase%20app%20distribution)?logo=github&style=for-the-badge"></a>
@@ -54,3 +55,7 @@ And you are good to go :thumbsup:
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvareversat%2Fcarg.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvareversat%2Fcarg?ref=badge_large)
